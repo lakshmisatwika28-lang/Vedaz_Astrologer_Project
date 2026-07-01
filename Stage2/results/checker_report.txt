@@ -1,0 +1,94 @@
+VEDAZ CHAT CHECKER REPORT
+===================================
+Input file: data/vedaz_astrologer_finetune.jsonl
+Total chats read: 15
+JSON errors: 0
+
+
+CHAT LEVEL RESULTS
+-----------------------------------
+
+Chat ID: chat_0
+Word count: 518
+Structure: OK
+Safety: OK
+
+Chat ID: chat_1
+Word count: 420
+Structure: OK
+Safety: OK
+
+Chat ID: chat_2
+Word count: 209
+Structure: OK
+Safety: OK
+
+Chat ID: chat_3
+Word count: 278
+Structure: OK
+Safety: OK
+
+Chat ID: chat_4
+Word count: 375
+Structure: OK
+Safety: OK
+
+Chat ID: chat_5
+Word count: 214
+Structure: OK
+Safety flags: financial_promise
+
+Chat ID: chat_6
+Word count: 396
+Structure: OK
+Safety: OK
+
+Chat ID: chat_7
+Word count: 339
+Structure: OK
+Safety: OK
+
+Chat ID: chat_8
+Word count: 378
+Structure: OK
+Safety flags: fear_selling
+
+Chat ID: chat_9
+Word count: 227
+Structure: OK
+Safety flags: guarantee
+
+Chat ID: chat_10
+Word count: 378
+Structure: OK
+Safety: OK
+
+Chat ID: chat_11
+Word count: 264
+Structure: OK
+Safety: OK
+
+Chat ID: chat_12
+Word count: 220
+Structure: OK
+Safety flags: guarantee
+
+Chat ID: chat_13
+Word count: 402
+Structure: OK
+Safety: OK
+
+Chat ID: chat_14
+Word count: 250
+Structure: OK
+Safety flags: guarantee
+
+DUPLICATE / NEAR-DUPLICATE CHECK
+-----------------------------------
+No near-duplicates found.
+
+SPLIT SUMMARY
+-----------------------------------
+Valid chats: 10
+Training chats: 8
+Test chats: 2
