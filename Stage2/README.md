@@ -202,3 +202,4 @@ This method is transparent, deterministic, and easy to debug. While effective fo
 # Notes
 
 The project focuses on building a practical data pipeline for AI-assisted astrology systems by combining automated validation, AI-based data generation, and repeatable quality evaluation while following Vedaz's safety principles.
+**Note:** Due to free-tier API quota limits, the submitted generated dataset contains 6 validated conversations instead of the target of 10. The generator is fully functional and can produce additional chats when run with a refreshed API quota.
